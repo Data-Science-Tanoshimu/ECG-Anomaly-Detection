@@ -1,4 +1,4 @@
-# Capstone Project: ECG Anomaly Detection
+# ECG Anomaly Detection
 
 ### Introduction
 
